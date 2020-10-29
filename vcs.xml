@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/custersnele/JavaAdv_H4_Collections.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kseniaPXL/JavaAdvStreamingServiceV1.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\kseni\IdeaProjects" />
