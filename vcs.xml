@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/kseniaPXL/JavaAdv_H5_Generics.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kseniaPXL/JavaAdv_H7_Streams.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\kseni\IdeaProjects" />
